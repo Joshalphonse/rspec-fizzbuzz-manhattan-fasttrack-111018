@@ -1,6 +1,6 @@
 name = 'Josh'
 
-if name == 'Lame'
+if name == 'Josh'
   puts "Hello #{name}"
   
 end
