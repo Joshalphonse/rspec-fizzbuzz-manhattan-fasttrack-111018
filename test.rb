@@ -10,4 +10,4 @@ if input == 'Josh'
 
 end
 
-greet()
+greetinput)
